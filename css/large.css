@@ -8,11 +8,12 @@
         margin: 1em 2em;
     }
 
-    section{
-        height: 1150px;
+    #principle1, #principle2, #principle3{
+        grid-row: 1/end;
     }
 
     #principle3{
-        grid-column: 3/4;
+        grid-column: 3/end;
+        align-self: stretch;
     }
 }
