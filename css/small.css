@@ -71,6 +71,14 @@ footer {
     color:#f2e0dc;
 }
 
+footer a:link{
+    color: #8A552C;
+}
+
+footer a:visited{
+    color:#768A2C;
+}
+
 #lastupdated {
     font-style: italic;
     font-size: smaller;
