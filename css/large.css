@@ -8,6 +8,12 @@
         margin: 2em 10em;
     }
 
+    main, header, footer{
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     #principle1, #principle2, #principle3{
         grid-row: 1/end;
     }
